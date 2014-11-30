@@ -18,7 +18,7 @@ footer:
   developers: "Développeurs"
   integrations: "Intégrations"
   embed: "Embarqué"
-  latestUploads: "Derniers téléchargements"
+  latestUploads: "Dernières contributions"
   report: "Signaler un problème"
   follow: "Suivre"
 landing:
@@ -67,10 +67,10 @@ landingWhatyoucan:
   section3Places: "Si vous avez des lieux ou des photos que vous ne voulez pas partager publiquement, vous pouvez avoir des projets privés. Regardez nos"
   section3Business: "business plans."
 landingSearch:
-  header: "Photos à hauteur de rues crowdsourcée"
+  header: "Photos de rues du monde pour tout le monde"
   search: "Cherchez"
   or: "ou"
-  anywhere: "Recherchez des lieux and des rues partout..."
+  anywhere: "Recherchez des lieux et des rues partout..."
   contribute: "contribuez avec les votres"
 navbar:
   howItWorks: "Comment ça marche"
@@ -80,7 +80,7 @@ navbar:
   projects: "Projets"
   me: "Moi"
   myProfile: "Mon profile"
-  manualUploads: "Contributions manuelles"
+  manualUploads: "Contribuer"
   settings: "Préférences"
   signOut: "Déconnexion"
   or: "ou"
@@ -105,8 +105,8 @@ profile:
   stillProcessing: "en cours de traitement"
   recentActivity: "Activités récentes"
 manualUpload:
-  title: "Téléchargez manuellement des images"
-  paragraph: "Téléchargez les images qui vont ensemble en une fois, ainsi elle formeront un"
+  title: "Contribuez"
+  paragraph: "Téléchargez les photos consécutives en une fois, ainsi elle formeront un"
   path: "chemin"
   chooseFiles: "Choisissez des fichiers"
   tagsRequired: "Les étiquettes EXIF suivantes sont requises :"
@@ -139,7 +139,7 @@ manualUpload:
   thankYou: "Merci !"
   filesUploaded: "Vos fichiers ont été téléchargés vers Mapillary"
   check: "Vérifiez"
-  myUploads: "Mes téléchargements"
+  myUploads: "Mes contributions"
   addedSoon: "ils seront rapidement ajoutés à la carte"
   uploadMore: "Téléchargez plus"
 i18nSettings:
